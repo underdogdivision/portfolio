@@ -55,3 +55,7 @@ The project includes:
 
 EDA completed.  
 Next steps: cohort analysis, retention, category-level revenue analysis.
+
+## Project Materials
+- Notebook: `notebooks/eda.ipynb`
+- Data: Olist public dataset (not stored in repo)
